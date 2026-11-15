@@ -1,0 +1,33 @@
+{
+  "applicationId": "ru.palestra.hike_walkie_talkie",
+  "catalogChannel": "release",
+  "latestVersionCodeByStore": {
+    "googlePlay": 15,
+    "ruStore": 15,
+    "appGallery": 15,
+    "nashStore": 15,
+    "apkPure": 15
+  },
+  "schemas": {
+    "1": {
+      "storeOptions": {
+        "googlePlay": {
+          "enabled": true
+        },
+        "ruStore": {
+          "enabled": true
+        },
+        "appGallery": {
+          "enabled": true
+        },
+        "nashStore": {
+          "enabled": true
+        },
+        "apkPure": {
+          "enabled": true
+        }
+      }
+    }
+  },
+  "releaseNotes": {}
+}

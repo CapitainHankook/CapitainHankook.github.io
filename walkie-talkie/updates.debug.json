@@ -1,0 +1,69 @@
+{
+  "applicationId": "ru.palestra.hike_walkie_talkie",
+  "catalogChannel": "debug",
+  "latestVersionCodeByStore": {
+    "googlePlay": 18,
+    "ruStore": 17,
+    "appGallery": 18,
+    "apkPure": 16
+  },
+  "schemas": {
+    "1": {
+      "storeOptions": {
+        "googlePlay": {
+          "enabled": true
+        },
+        "ruStore": {
+          "enabled": true
+        },
+        "appGallery": {
+          "enabled": true
+        },
+        "nashStore": {
+          "enabled": false
+        },
+        "apkPure": {
+          "enabled": true
+        }
+      }
+    }
+  },
+  "releaseNotes": {
+    "18": {
+      "en": [
+        "Made incoming connections more reliable.",
+        "Fixed an issue where audio could cut out when returning to the app."
+      ],
+      "de": [
+        "Eingehende Verbindungen sind jetzt zuverlässiger.",
+        "Ein Fehler wurde behoben, durch den der Ton bei der Rückkehr zur App ausfallen konnte."
+      ],
+      "ru": [
+        "Входящие подключения стали стабильнее.",
+        "Исправили пропадание звука при возврате в приложение."
+      ]
+    },
+    "17": {
+      "en": [
+        "Made connection status messages clearer."
+      ],
+      "de": [
+        "Die Meldungen zum Verbindungsstatus sind jetzt verständlicher."
+      ],
+      "ru": [
+        "Уточнили сообщения о состоянии подключения."
+      ]
+    },
+    "16": {
+      "en": [
+        "Fixed an issue where the call button could remain inactive after reconnecting."
+      ],
+      "de": [
+        "Ein Fehler wurde behoben, durch den die Sprechtaste nach dem erneuten Verbinden inaktiv bleiben konnte."
+      ],
+      "ru": [
+        "Исправили ошибку, из-за которой кнопка разговора могла оставаться неактивной после переподключения."
+      ]
+    }
+  }
+}
